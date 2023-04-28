@@ -1,6 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
+// Write a program that tracks integers to calculate min, max, avg and mode of incoming integers
 
 class IntegerTracker {
     private int min, max, sum, count, mode;
